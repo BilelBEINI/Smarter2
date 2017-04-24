@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toast.makeText(getApplication(),"Long",Toast.LENGTH_LONG).show();
-        // second 
+        // second
+        // gdhjd
     }
 }
